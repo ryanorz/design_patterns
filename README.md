@@ -45,3 +45,7 @@ real 和　proxy 类均继承同样的接口类，　proxy 里面存储　real�
 ## Abstract Factory 抽象工厂模式 (Creational 创建型)
 
 创建一系列相关或相互以来对象的接口，而无需指定它们具体的类．
+
+## State 状态模式　(Behavioral 行为型)
+
+允许一个对象在其内部状态改变时改变它的行为．对象看起来似乎修改了它的类．
