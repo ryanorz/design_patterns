@@ -10,3 +10,8 @@ add_executable(observer_test observer/client_test.cc)
 add_executable(abstract_factory_test abstract_factory/client_test.cc)
 add_executable(state_test state/client_test.cc)
 add_executable(memento_test memento/client_test.cc)
+
+add_executable(singleton_test
+  singleton/client_test.cc
+  ${CMAKE_SOURCE_DIR}/src/singleton/singleton.cc
+)
