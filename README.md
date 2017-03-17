@@ -41,3 +41,7 @@ real 和　proxy 类均继承同样的接口类，　proxy 里面存储　real�
 ## Observer 观察者模式　(Behavioral 行为型)
 
 类间相互耦合时，一个类的状态发生变化需要通知其他类进行相应更新操作．
+
+## Abstract Factory 抽象工厂模式 (Creational 创建型)
+
+创建一系列相关或相互以来对象的接口，而无需指定它们具体的类．
