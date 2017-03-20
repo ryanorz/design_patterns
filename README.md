@@ -1,6 +1,6 @@
 # design_patterns
 
-大话设计模式>> c++ 实现
+大话设计模式>> c++ 实现, 某些实现非常简单的模式已经忽略
 
 ## Simple Factory Method, 简单工厂 (Creational 创建型)
 
@@ -61,3 +61,5 @@ real 和　proxy 类均继承同样的接口类，　proxy 里面存储　real�
 ## Command 命令模式
 
 实现请求与执行的解耦和
+
+## Chain of Responsibility 职责链模式

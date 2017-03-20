@@ -17,3 +17,4 @@ add_executable(singleton_test
 )
 
 add_executable(command_test command/client_test.cc)
+add_executable(responsibility_test chain_of_responsibility/client_test.cc)
