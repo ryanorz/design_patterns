@@ -1,6 +1,6 @@
 # design_patterns
 
-大话设计模式>> c++ 实现, 某些实现非常简单的模式已经忽略
+大话设计模式>> c++ 实现, 某些实现非常简单的模式或是开发过程中用的少已经忽略
 
 ## Simple Factory Method, 简单工厂 (Creational 创建型)
 
