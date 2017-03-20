@@ -15,3 +15,5 @@ add_executable(singleton_test
   singleton/client_test.cc
   ${CMAKE_SOURCE_DIR}/src/singleton/singleton.cc
 )
+
+add_executable(command_test command/client_test.cc)

@@ -57,3 +57,7 @@ real 和　proxy 类均继承同样的接口类，　proxy 里面存储　real�
 ## Singleton 单例模式
 
 懒汉模式，　饿汉模式，　改进双重锁懒汉模式
+
+## Command 命令模式
+
+实现请求与执行的解耦和
